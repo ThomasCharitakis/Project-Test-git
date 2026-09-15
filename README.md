@@ -1,2 +1,2 @@
 # Project Test Git
-A repo for learning git and GitHub.
+This is a description written from branch B.
