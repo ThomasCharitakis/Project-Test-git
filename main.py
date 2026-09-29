@@ -4,3 +4,5 @@ if __name__ == "__main__":
     print(get_current_datetime())
 
     print(summing(3, 4))
+
+    print("done test")
